@@ -1,0 +1,83 @@
+[
+  {
+    "crop_id": "carrot",
+    "name": "萝卜",
+    "seed_price": 10,
+    "mature_seconds": 120,
+    "sell_price": 20,
+    "exp": 1,
+    "level_required": 1
+  },
+  {
+    "crop_id": "potato",
+    "name": "土豆",
+    "seed_price": 20,
+    "mature_seconds": 300,
+    "sell_price": 45,
+    "exp": 2,
+    "level_required": 1
+  },
+  {
+    "crop_id": "tomato",
+    "name": "番茄",
+    "seed_price": 35,
+    "mature_seconds": 600,
+    "sell_price": 80,
+    "exp": 3,
+    "level_required": 2
+  },
+  {
+    "crop_id": "strawberry",
+    "name": "草莓",
+    "seed_price": 50,
+    "mature_seconds": 1200,
+    "sell_price": 130,
+    "exp": 5,
+    "level_required": 3
+  },
+  {
+    "crop_id": "wheat",
+    "name": "小麦",
+    "seed_price": 70,
+    "mature_seconds": 1800,
+    "sell_price": 180,
+    "exp": 6,
+    "level_required": 4
+  },
+  {
+    "crop_id": "apple_tree",
+    "name": "苹果树",
+    "seed_price": 150,
+    "mature_seconds": 7200,
+    "sell_price": 500,
+    "exp": 20,
+    "level_required": 6
+  },
+  {
+    "crop_id": "orange_tree",
+    "name": "橙子树",
+    "seed_price": 300,
+    "mature_seconds": 14400,
+    "sell_price": 1100,
+    "exp": 35,
+    "level_required": 8
+  },
+  {
+    "crop_id": "grape",
+    "name": "葡萄",
+    "seed_price": 500,
+    "mature_seconds": 28800,
+    "sell_price": 2000,
+    "exp": 50,
+    "level_required": 11
+  },
+  {
+    "crop_id": "lingzhi",
+    "name": "灵芝",
+    "seed_price": 2000,
+    "mature_seconds": 86400,
+    "sell_price": 10000,
+    "exp": 200,
+    "level_required": 15
+  }
+]
